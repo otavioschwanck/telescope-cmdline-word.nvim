@@ -37,7 +37,7 @@ vim.keymap.set("c", "<tab>", require("telescope-cmdline-word.picker").find_word,
 
 ## Usage
 
-Just press tab when on substitute or command.
+Just press tab when on substitute (%s/) or global (g/).
 
 ## Advanced Setup
 
